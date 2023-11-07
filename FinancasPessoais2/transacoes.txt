@@ -1,0 +1,2 @@
+guardaroupa,170.0
+bicicleta,350.0
